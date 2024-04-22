@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="p5.min.js"></script>
+    <script src="p5.dom.min.js"></script>
+    <script src="p5.sound.min.js"></script>
+    <script src="js/Form.js"></script>
+    <script src="js/Game.js"></script>
+    <script src="js/Player.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.3.4/firebase-app.js"></script>
+     <script src="https://www.gstatic.com/firebasejs/6.3.0/firebase-database.js"></script>
+     <script>
+      // Your web app's Firebase configuration
+      var firebaseConfig = {
+        apiKey: "AIzaSyDNtLPvkDbCXCZ0kW9PXZllnwXkY6ktAFA",
+        authDomain: "car-racing-game-d4dc6.firebaseapp.com",
+        databaseURL: "https://car-racing-game-d4dc6.firebaseio.com",
+        projectId: "car-racing-game-d4dc6",
+        storageBucket: "car-racing-game-d4dc6.appspot.com",
+        messagingSenderId: "792751700307",
+        appId: "1:792751700307:web:8d27b172b534246710c9a6"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+    </script>
+    
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8">
+</head>
+<body>
+  <script src="sketch.js"></script>
+</body>
+</html>
