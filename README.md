@@ -17,6 +17,13 @@ _Note: I have stopped maintaining these projects a long time ago so if they don'
 
  #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/T-Rex).
 
+ # Snake - Game :
+## About:
+
+ The classic nokia snake game recreated in p5.js/p5.play.js, use arrow keys for controls.
+
+ #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Snake).
+
  # Car Racing :
 ## About:
 A multiplayer car racing game made using firebase database and HTML + JS which dynamically alots player based on there numbers (Upto 4 player can play this game).
