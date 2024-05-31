@@ -47,10 +47,10 @@ A drawing canvas created using p5.js a long time ago when I just started coding.
 This is a simple castle which I had created in p5.js, this is arguably my first coding project which I created.
 
  #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Castle).
- #### Similar Physics Engine Repo: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Toppling-Boxes).
 
  # Pendulum :
 ## About:
 A simple web app made using p5.js with matter.js physics engine, its a simple pendulum which allows user controls to make it a little interactable.
 
  #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Pendulum).
+ #### Similar Physics Engine Repo: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Toppling-Boxes).
