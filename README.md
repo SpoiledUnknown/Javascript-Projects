@@ -34,3 +34,9 @@ The BounceOFF library is a simple JavaScript library designed to facilitate coll
 A drawing canvas created using p5.js a long time ago when I just started coding.
 
  #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Canvas-Drawing).
+
+# My Castle - The First p5.js Project :
+## About:
+This is a simple castle which I had created in p5.js, this is arguably my first coding project which I created.
+
+ #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Castle).
