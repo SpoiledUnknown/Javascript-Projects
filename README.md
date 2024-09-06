@@ -1,4 +1,4 @@
-# Javascript-Games
+# Javascript-Projects
 Contains all the games which I made in learning JavaScript way back 5 years ago somewhere between the start of 2019 to the end of 2019, all of them are made using HTML + JS and can be played using any web server on any web browser.
 
 _Note: I have stopped maintaining these projects a long time ago so if they don't work then you know why, **Peace**_
