@@ -54,3 +54,15 @@ A simple web app made using p5.js with matter.js physics engine, its a simple pe
 
  #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Pendulum).
  #### Similar Physics Engine Repo: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Toppling-Boxes).
+
+# Discord Quest :
+## About:
+ A straightforward JavaScript program designed to trick Discord's web interface into believing the user is actively completing quests, while in reality, they’re simply sitting in a voice channel.
+
+ #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Projects/tree/Discord-Quest)
+
+ # Nasa's Picture Of The Day:
+ ## About : 
+ This project showcases NASA's top image of the day, selected from thousands of stunning photos captured across the galaxy.
+
+ #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Projects/tree/Nasa-POTD).
