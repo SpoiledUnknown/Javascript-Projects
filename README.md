@@ -66,3 +66,9 @@ A simple web app made using p5.js with matter.js physics engine, its a simple pe
  This project showcases NASA's top image of the day, selected from thousands of stunning photos captured across the galaxy.
 
  #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Projects/tree/Nasa-POTD).
+
+  # Quixel-Purchaser:
+ ## About : 
+ As quixel is being removed, all items are free to aquire. This script is to automate the process to add items to your account (As of writing, a total of 18874 items).
+
+ #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Projects/tree/Quixel-Purchaser).
