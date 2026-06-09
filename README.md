@@ -10,14 +10,6 @@ Many of these projects were created when I was around **12 years old**, making t
 >
 > Most of them are no longer actively maintained, and some may require small fixes or dependency updates to run correctly on modern browsers.
 
----
-
-# 🎮 Games
-
-Projects focused on gameplay, user interaction, and learning core JavaScript concepts.
-
----
-
 ## 🐦 Angry Birds
 
 ### About
@@ -88,14 +80,6 @@ The game dynamically assigns player positions and supports up to four players si
 * Player management
 * State synchronization
 
----
-
-# 🧪 Experiments & Learning Projects
-
-Small projects created while exploring graphics programming, user interaction, and browser development.
-
----
-
 ## 🎨 Canvas Drawing
 
 ### About
@@ -162,14 +146,6 @@ The project demonstrates basic physics interactions and object collisions in a b
 * p5.js
 * Matter.js
 
----
-
-# 📚 Utility & Library Projects
-
-Projects focused on reusable functionality rather than gameplay.
-
----
-
 ## ⚡ BounceOFF Library
 
 ### About
@@ -194,14 +170,6 @@ Its purpose was to simplify collision handling in p5.js-based projects.
 * Reusable code
 * Collision systems
 * Basic physics interactions
-
----
-
-# 🌍 Web & API Projects
-
-Projects exploring APIs, external services, and browser automation.
-
----
 
 ## 🚀 NASA Picture of the Day
 
@@ -263,7 +231,66 @@ The script automated the process of claiming large numbers of assets, saving use
 * DOM interaction
 * Request handling
 * Workflow automation
-  nb
+
+## 🌸 Natsuki Live
+
+### About
+
+A GPL-licensed live wallpaper project inspired by the original **Animated Natsuki** wallpaper created by GezzaBeat.
+
+The wallpaper features **Natsuki** from *Doki Doki Literature Club Plus!* and was created as a modern recreation with higher-quality assets, improved customization, and cross-platform compatibility.
+
+Designed for wallpaper engines that support **HTML/Web-based wallpapers**, the project combines lightweight animations, character interactions, music playback, and automatic display scaling.
+
+### Highlights
+
+* 🖼️ 1440p texture assets
+* 🎵 Built-in DDLC "Play With Me" soundtrack
+* 👀 Animated eye blinking
+* 😊 Multiple facial expressions
+
+  * Smile
+  * Blush
+  * Pout
+  * Surprised
+* ⚡ Variable Refresh Rate (VRR) support
+* 📐 Automatic resolution scaling
+* 🖥️ Windows and Linux support
+* 🎛️ Configuration file for easy customization
+
+### Technologies
+
+* HTML
+* CSS
+* JavaScript
+
+### Recent Improvements
+
+* Added support for all common 16:9 resolutions
+* Reduced project size by nearly 50%
+* Improved image quality and asset cleanup
+* Added automatic scaling based on display resolution
+* Improved frame-rate independence
+* Added new character reactions and expressions
+
+### Future Plans
+
+Possible future additions include:
+
+* 📱 Android live wallpaper support
+* Additional expressions and interactions
+* Support for more aspect ratios
+* Further performance optimizations
+
+### Credits
+
+* Original wallpaper concept by **GezzaBeat**
+* Character: **Natsuki** from *Doki Doki Literature Club Plus!*
+* Recreation and development by **SpoiledUnknown**
+
+> ⚠️ This project is a fan-made recreation and is not affiliated with Team Salvato.
+
+
 ---
 
 # ⭐ Looking Forward
