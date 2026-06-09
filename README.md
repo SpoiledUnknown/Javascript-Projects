@@ -1,74 +1,274 @@
-# Javascript-Projects
-Contains all the games which I made in learning JavaScript way back 5 years ago somewhere between the start of 2019 to the end of 2019, all of them are made using HTML + JS and can be played using any web server on any web browser.
+# 🌐 JavaScript Projects Collection
 
-_Note: I have stopped maintaining these projects a long time ago so if they don't work then you know why, **Peace**_
+A collection of JavaScript projects created during my early programming journey between **2019 and 2020**.
 
-# Angry Birds :
-## About:
+Most of these projects were built using **HTML**, **JavaScript**, **p5.js**, **p5.play.js**, and occasionally **Matter.js**. They represent some of my earliest experiments with game development, graphics programming, browser APIs, physics simulations, and web development.
 
- The classic angry birds game recreated in JS + HTML using p5.js library by my 12 year old self.
+Many of these projects were created when I was around **12 years old**, making them an interesting snapshot of how I started learning programming.
 
- #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Angry-Birds).
+> These projects are preserved primarily for archival and educational purposes.
+>
+> Most of them are no longer actively maintained, and some may require small fixes or dependency updates to run correctly on modern browsers.
 
-# T - Rex :
-## About:
+---
 
- The classic no internet connect game from google chrome recreated in JS + HTML using p5.js library by my 12 year old self.
+# 🎮 Games
 
- #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/T-Rex).
+Projects focused on gameplay, user interaction, and learning core JavaScript concepts.
 
- # Snake - Game :
-## About:
+---
 
- The classic nokia snake game recreated in p5.js/p5.play.js, use arrow keys for controls.
+## 🐦 Angry Birds
 
- #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Snake).
+### About
 
- # Car Racing :
-## About:
-A multiplayer car racing game made using firebase database and HTML + JS which dynamically alots player based on there numbers (Upto 4 player can play this game).
+A recreation of the classic Angry Birds game built using **p5.js**.
 
- #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Multiplayer-Car-Racing).
+This project was one of my earliest attempts at recreating a commercial game and experimenting with simple physics-based gameplay mechanics.
 
-  # BounceOFF - Library :
-## About:
-The BounceOFF library is a simple JavaScript library designed to facilitate collision detection and bounce behavior in 2D environments. It provides two main functions, isTouching and bounceOff, which enable developers to detect collisions between two objects and apply bounce behavior accordingly.
+### Technologies
 
- #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/BounceOff-IsTouching).
+* JavaScript
+* HTML
+* p5.js
 
-   # Canvas Drawing :
-## About:
-A drawing canvas created using p5.js a long time ago when I just started coding.
+---
 
- #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Canvas-Drawing).
+## 🦖 Tyrannosaurus Rex
 
-# My Castle - The First p5.js Project :
-## About:
-This is a simple castle which I had created in p5.js, this is arguably my first coding project which I created.
+### About
 
- #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Castle).
+A recreation of Google's famous offline dinosaur game.
 
- # Pendulum :
-## About:
-A simple web app made using p5.js with matter.js physics engine, its a simple pendulum which allows user controls to make it a little interactable.
+The game was built using JavaScript and p5.js while learning animation, collision detection, and endless-runner mechanics.
 
- #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Pendulum).
- #### Similar Physics Engine Repo: [Here](https://github.com/SpoiledUnknown/Javascript-Games/tree/Toppling-Boxes).
+### Technologies
 
-# Discord Quest :
-## About:
- A straightforward JavaScript program designed to trick Discord's web interface into believing the user is actively completing quests, while in reality, they’re simply sitting in a voice channel.
+* JavaScript
+* HTML
+* p5.js
 
- #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Projects/tree/Discord-Quest)
+---
 
- # Nasa's Picture Of The Day:
- ## About : 
- This project showcases NASA's top image of the day, selected from thousands of stunning photos captured across the galaxy.
+## 🐍 Snake Game
 
- #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Projects/tree/Nasa-POTD).
+### About
 
-  # Quixel-Purchaser:
- ## About : 
- As quixel is being removed, all items are free to aquire. This script is to automate the process to add items to your account (As of writing, a total of 18874 items).
+A recreation of the classic Nokia Snake game.
 
- #### Repository: [Here](https://github.com/SpoiledUnknown/Javascript-Projects/tree/Quixel-Purchaser).
+Players control the snake using the arrow keys while attempting to grow as long as possible without colliding with obstacles or themselves.
+
+### Technologies
+
+* JavaScript
+* HTML
+* p5.js
+* p5.play.js
+
+---
+
+## 🚗 Multiplayer Car Racing
+
+### About
+
+A multiplayer racing game that uses Firebase as a backend for synchronizing player data.
+
+The game dynamically assigns player positions and supports up to four players simultaneously.
+
+### Technologies
+
+* JavaScript
+* HTML
+* Firebase
+
+### Concepts Learned
+
+* Multiplayer synchronization
+* Realtime databases
+* Player management
+* State synchronization
+
+---
+
+# 🧪 Experiments & Learning Projects
+
+Small projects created while exploring graphics programming, user interaction, and browser development.
+
+---
+
+## 🎨 Canvas Drawing
+
+### About
+
+A simple browser-based drawing application built with p5.js.
+
+This was one of my earliest experiments with canvas rendering and user interaction.
+
+The project has since been updated to work with modern browser versions and newer p5.js releases.
+
+### Technologies
+
+* JavaScript
+* HTML
+* p5.js
+
+---
+
+## 🏰 My Castle
+
+### About
+
+A simple castle illustration created using p5.js.
+
+Arguably my very first programming project and one of the earliest things I ever built with code.
+
+### Technologies
+
+* JavaScript
+* HTML
+* p5.js
+
+---
+
+## ⏱️ Pendulum
+
+### About
+
+A small physics simulation featuring an interactive pendulum powered by Matter.js.
+
+The project was created while learning how physics engines can be integrated into browser-based applications.
+
+### Technologies
+
+* JavaScript
+* HTML
+* p5.js
+* Matter.js
+
+---
+
+## 📦 Toppling Boxes
+
+### About
+
+One of my first experiments with the Matter.js physics engine.
+
+The project demonstrates basic physics interactions and object collisions in a browser environment.
+
+### Technologies
+
+* JavaScript
+* HTML
+* p5.js
+* Matter.js
+
+---
+
+# 📚 Utility & Library Projects
+
+Projects focused on reusable functionality rather than gameplay.
+
+---
+
+## ⚡ BounceOFF Library
+
+### About
+
+A small JavaScript collision-detection library created while learning game development.
+
+The library provides utility functions such as:
+
+* Collision detection (`isTouching`)
+* Bounce calculations (`bounceOff`)
+
+Its purpose was to simplify collision handling in p5.js-based projects.
+
+### Technologies
+
+* JavaScript
+* p5.js
+
+### Concepts Learned
+
+* Library design
+* Reusable code
+* Collision systems
+* Basic physics interactions
+
+---
+
+# 🌍 Web & API Projects
+
+Projects exploring APIs, external services, and browser automation.
+
+---
+
+## 🚀 NASA Picture of the Day
+
+### About
+
+A small web application that displays NASA's Astronomy Picture of the Day (APOD).
+
+The project was created while learning how to work with web APIs and external data sources.
+
+### Technologies
+
+* JavaScript
+* HTML
+* NASA APOD API
+
+### Concepts Learned
+
+* REST APIs
+* JSON handling
+* Asynchronous programming
+
+---
+
+## 🎁 Discord Quest
+
+### About
+
+A modified version of a community-created script designed to automate completion of certain Discord Quest activities.
+
+This repository primarily serves as an archive of modifications and experiments rather than an original project.
+
+### Credits
+
+The original implementation was created by **Aamiaa** and later modified for experimentation and educational purposes.
+
+### Technologies
+
+* JavaScript
+* Browser Developer Tools
+
+---
+
+## 🎨 Quixel Purchaser
+
+### About
+
+A browser automation script created during the transition period when Quixel assets became freely available.
+
+The script automated the process of claiming large numbers of assets, saving users from manually adding thousands of items individually.
+
+### Technologies
+
+* JavaScript
+* Browser APIs
+
+### Concepts Learned
+
+* Browser automation
+* DOM interaction
+* Request handling
+* Workflow automation
+  nb
+---
+
+# ⭐ Looking Forward
+
+While I still occasionally build JavaScript projects, most of my current web development work has shifted toward **TypeScript** and modern frontend tooling.
+
+These projects remain here as a snapshot of where my programming journey started and the experiments that helped build the foundation for everything that came later.
+ 
