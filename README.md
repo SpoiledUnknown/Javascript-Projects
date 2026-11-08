@@ -233,6 +233,126 @@ The script automated the process of claiming large numbers of assets, saving use
 * Workflow automation
 ---
 
+## 🌸 Natsuki Live
+
+### About
+
+A GPL-licensed live wallpaper project inspired by the original **Animated Natsuki** wallpaper created by GezzaBeat.
+
+The wallpaper features **Natsuki** from *Doki Doki Literature Club Plus!* and was created as a modern recreation with higher-quality assets, improved customization, and cross-platform compatibility.
+
+Designed for wallpaper engines that support **HTML/Web-based wallpapers**, the project combines lightweight animations, character interactions, music playback, and automatic display scaling.
+
+### Highlights
+
+* 🖼️ 1440p texture assets
+* 🎵 Built-in DDLC "Play With Me" soundtrack
+* 👀 Animated eye blinking
+* 😊 Multiple facial expressions
+
+  * Smile
+  * Blush
+  * Pout
+  * Surprised
+* ⚡ Variable Refresh Rate (VRR) support
+* 📐 Automatic resolution scaling
+* 🖥️ Windows and Linux support
+* 🎛️ Configuration file for easy customization
+
+### Technologies
+
+* HTML
+* CSS
+* JavaScript
+
+### Recent Improvements
+
+* Added support for all common 16:9 resolutions
+* Reduced project size by nearly 50%
+* Improved image quality and asset cleanup
+* Added automatic scaling based on display resolution
+* Improved frame-rate independence
+* Added new character reactions and expressions
+
+### Future Plans
+
+Possible future additions include:
+
+* 📱 Android live wallpaper support
+* Additional expressions and interactions
+* Support for more aspect ratios
+* Further performance optimizations
+
+### Credits
+
+* 🎨 Original wallpaper concept by **GezzaBeat**
+* 👧 Character: **Natsuki** from *Doki Doki Literature Club Plus!*
+* 💻 Recreation and development by **SpoiledUnknown**
+
+> [!WARNING]
+> This project is a fan-made recreation and is not affiliated with Team Salvato.
+
+---
+
+## 🌙 O-Kawaii-Koto (Modern)
+
+### About
+
+A cyberpunk-styled **Kaguya Shinomiya** from *Love Is War* wallpaper with a modern clock taken from the **KDE Modern Clock** package for Linux.
+
+Designed as a web-based live wallpaper, the project combines a looping video background, custom typography, visual effects, and a dynamic clock.
+
+### Highlights
+
+* 🎬 Cyberpunk-styled animated background
+* 🕐 Dynamic modern clock
+* 📅 Dynamic day and date display
+* 🔤 Custom fonts for time, day, and date
+* ✨ Visual effects and animations
+* 🖥️ Web/HTML-based wallpaper
+* 📐 Automatic display scaling
+
+### Technologies
+
+* HTML
+* CSS
+* TypeScript
+* Vite
+
+### Credits
+
+* 👧 Character: **Kaguya Shinomiya** from *Kaguya-sama: Love Is War*
+* 🕐 Modern clock design inspired by the **KDE Modern Clock** package for Linux
+* 💻 Recreation and development by **SpoiledUnknown**
+
+> [!WARNING]
+> This project is a fan-made wallpaper and is not affiliated with the creators or copyright holders of *Kaguya-sama: Love Is War*.
+
+___
+
+## How to Install
+
+1. Install any live wallpaper app for your OS that supports Website/HTML.
+
+> [!NOTE]
+> I recommend using [Lively Wallpaper](https://github.com/rocksdanister/lively), another Free And Open Source Software *(FOSS)*. I don't provide setup support for any other wallpaper app.
+
+2. Copy the GitHub Pages URL or download the zip from the [releases](https://github.com/SpoiledUnknown/Wallpapers/releases/) and extract it to your desired location.
+
+3. Set it inside the wallpaper app:
+
+   1. Open **Lively Wallpaper**.
+   2. Click on the plus (+) button in the top right.
+   3. Select the wallpaper.
+   4. Enter the name and description.
+
+      * Adding a name and description helps you remember and distinguish between your other wallpapers.
+   5. Rescale the thumbnail *(Optional)*.
+
+      * This also helps in remembering and distinguishing.
+   6. You are good to **GO!**
+
+
 # ⭐ Looking Forward
 
 While I still occasionally build JavaScript projects, most of my current web development work has shifted toward **TypeScript** and modern frontend tooling.
